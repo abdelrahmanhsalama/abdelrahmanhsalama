@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman</h1>
 <h2 align="center">Passionate Frontend Developer</h2>
 
-- 🔭 I’m currently working on [Next-ECommerce](https://github.com/abdelrahmanHSalama/Next-ECommerce)
+- 🔭 I’m currently working on [Next-ECommerce](https://github.com/abdelrahmanHSalama/Next-ECommerce).
 
 - 🌱 I’m currently learning **Next.js** and **TypeScript.**
 
