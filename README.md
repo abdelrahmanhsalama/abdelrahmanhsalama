@@ -40,8 +40,6 @@
     <img
         src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
         alt="react"
-        width="40"
-        height="40"
     />
     <img
         src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"
