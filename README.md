@@ -14,12 +14,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
         <img
-        src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26"
-        alt="react"
+        src="https://img.shields.io/badge/HTML-20232a?style=for-the-badge&logo=html5&logoColor=%23E34F26"
+        alt="HTML"
     />
         <img
-        src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
-        alt="react"
+        src="https://img.shields.io/badge/CSS-20232a?style=for-the-badge&logo=css&logoColor=%23663399"
+        alt="CSS"
     />
         <img
         src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
