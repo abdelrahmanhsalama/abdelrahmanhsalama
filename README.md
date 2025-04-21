@@ -22,53 +22,30 @@
         alt="CSS"
     />
         <img
-        src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
-        alt="react"
+        src="https://img.shields.io/badge/JavaScript-20232a?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
+        alt="JavaScript"
     />
         <img
-        src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
-        alt="react"
-    />
-    <img
-        src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
-        alt="react"
-    />
-    <img
-        src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"
-        alt="nextjs"
-        width="40"
-        height="40"
+        src="https://img.shields.io/badge/TypeScript-20232a?style=for-the-badge&logo=typescript&logoColor=%233178C6"
+        alt="TypeScript"
     />
   <br>
     <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-        alt="bootstrap"
-        width="40"
-        height="40"
+        src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+        alt="React"
     />
     <img
-        src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg"
-        alt="tailwind"
-        width="40"
-        height="40"
+        src="https://img.shields.io/badge/Next-20232a?style=for-the-badge&logo=nextdotjs&logoColor=%23FFFFFF"
+        alt="Next.js"
+    />
+  <br>
+    <img
+        src="https://img.shields.io/badge/Bootstrap-20232a?style=for-the-badge&logo=bootstrap&logoColor=%237952B3"
+        alt="Bootstrap"
     />
     <img
-        src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-        alt="figma"
-        width="40"
-        height="40"
-    />
-    <img
-        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-        alt="firebase"
-        width="40"
-        height="40"
-    />
-    <img
-        src="https://reactnative.dev/img/header_logo.svg"
-        alt="reactnative"
-        width="40"
-        height="40"
+        src="https://img.shields.io/badge/Tailwind-20232a?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4"
+        alt="Tailwind"
     />
 </p>
 
