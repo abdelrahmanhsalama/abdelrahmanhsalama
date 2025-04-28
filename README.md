@@ -44,7 +44,7 @@
         alt="Bootstrap"
     />
     <img
-        src="https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4"
-        alt="Tailwind"
+        src="https://img.shields.io/badge/tailwind css-black?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4"
+        alt="Tailwind CSS"
     />
 </p>
