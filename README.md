@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman</h1>
 <h2 align="center">Passionate Frontend Developer</h2>
 
-- 🔭 I’m currently working on [Next-ECommerce](https://github.com/abdelrahmanHSalama/Next-ECommerce).
+- 🔭 I’m currently working on [Next-ECommerce](https://github.com/abdelrahmanHSalama/Next-ECommerce) and [React-ECommerce-Dashboard](https://github.com/abdelrahmanHSalama/React-ECommerce-Dashboard).
 
-- 🌱 I’m currently learning **Next.js** and **TypeScript.**
+- 🌱 I’m currently learning 
 
-- 💬 Ask me about **HTML**, **CSS**, **JavaScript** and **React**.
+- 💬 Ask me about **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React** and **Next.js**.
 
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abdelrahmanhsalama/).
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abdelrahmanHSalama/).
 
 - ⚡ Fun fact? **I graduated from dental school, but my passion for tech led me to pursue web development. I hope to one day combine both fields in meaningful ways.**
 
