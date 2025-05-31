@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Ibtesama-Dashboard](https://github.com/abdelrahmanHSalama/ibtesama-dashboard).
 
-- 🌱 I’m currently learning 
-
 - 💬 Ask me about **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React** and **Next.js**.
 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abdelrahmanHSalama/).
