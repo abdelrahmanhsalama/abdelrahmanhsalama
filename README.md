@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman</h1>
 <h2 align="center">Passionate Frontend Developer</h2>
 
-- 🔭 I’m currently working on [Ibtesama-Dashboard](https://github.com/abdelrahmanHSalama/ibtesama-dashboard).
+- 🔭 I’m currently working on [Next-ECommerce](https://github.com/abdelrahmanHSalama/next-ecommerce) and [Next-Blog](https://github.com/abdelrahmanHSalama/next-blog).
 
 - 💬 Ask me about **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React** and **Next.js**.
 
