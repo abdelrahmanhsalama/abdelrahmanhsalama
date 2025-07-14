@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋🏻, I'm Abdelrahman</h1>
 <h2 align="center">Frontend Developer</h2>
 
-- 🔭 I’m currently working on [Next-Blog](https://github.com/abdelrahmanHSalama/next-blog) and [Next-ECommerce](https://github.com/abdelrahmanHSalama/next-ecommerce).
+- 🔭 I’m currently working on [React-Productivity-App](https://github.com/abdelrahmanHSalama/react-productivity-app).
 
 - 💬 Ask me about **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React** and **Next.js**.
 
