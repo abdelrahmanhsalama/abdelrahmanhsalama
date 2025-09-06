@@ -13,7 +13,7 @@
 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abdelrahmanHSalama/).
 
-- ⚡ Fun fact? **I graduated from dental school, but my passion for tech led me to pursue web development. I hope to one day combine both fields in meaningful ways.**
+- **⚡ Fun Fact?** I graduated from dental school, but my passion for tech led me to pursue web development. I hope to one day combine both fields in meaningful ways.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
