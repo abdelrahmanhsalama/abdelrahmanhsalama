@@ -7,7 +7,7 @@
         align="center"
     />
 
-- 🔭 I’m currently working on [React-Productivity-App](https://github.com/abdelrahmanHSalama/react-productivity-app).
+<!-- - 🔭 I’m currently working on [Title](Link). -->
 
 - 💬 Ask me about **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React** and **Next.js**.
 
