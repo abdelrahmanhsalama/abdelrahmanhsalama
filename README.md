@@ -1,4 +1,4 @@
-<h1 style="border-bottom:none;" align="center">Hello 👋🏻, I'm Abdelrahman</h1>
+<h1 style="border-bottom:none" align="center">Hello 👋🏻, I'm Abdelrahman</h1>
 <h2 align="center">Health Informatics Specialist + Frontend Developer 👨🏻‍⚕️👨🏻‍💻</h2>
 
 <img
